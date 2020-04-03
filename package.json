@@ -39,6 +39,7 @@
     "publish": "vsce publish"
   },
   "devDependencies": {
-    "vsce": "^1.74.0"
+    "np": "^6.2.0",
+    "vsce": "^1.75.0"
   }
 }
