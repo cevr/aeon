@@ -1,0 +1,44 @@
+{
+  "name": "aeon",
+  "displayName": "Aeon",
+  "description": "Subtlty with bright highlights",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cevr/aeon"
+  },
+  "engines": {
+    "vscode": "^1.32.0"
+  },
+  "galleryBanner": {
+    "color": "#cfbafa",
+    "theme": "dark"
+  },
+  "publisher": "cev",
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Night Theme",
+    "Sublte",
+    "Easy to read"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aeon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aeon.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "vsce": "^1.74.0"
+  }
+}
