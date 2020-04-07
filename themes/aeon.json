@@ -448,7 +448,7 @@
         "meta.embedded.expression",
         "meta.template.expression",
         "meta.tag.block.any.html",
-        "meta.object-literal.key.tsx",
+        "meta.object-literal.key",
         "meta.object.member.tsx",
         "meta.objectliteral.tsx",
         "meta.function.tsx",
@@ -570,7 +570,6 @@
         "support.other.namespace.php",
         "markup.changed.git_gutter",
         "support.type.sys-types",
-        "meta.object-literal.key"
       ],
       "settings": {
         "foreground": "#cfbafa"
