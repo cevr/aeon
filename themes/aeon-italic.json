@@ -386,7 +386,6 @@
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#8695b799"
       }
     },
@@ -1052,7 +1051,7 @@
     },
     {
       "name": "Ensure non-italicized",
-      "scope": ["keyword.operator.type.annotation"],
+      "scope": ["keyword.operator.type", "keyword.operator.assignment"],
       "settings": {
         "fontStyle": ""
       }

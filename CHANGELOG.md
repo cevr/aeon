@@ -2,6 +2,11 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.4.2]
+
+- tweak italicized tokens
+- comments no longer italicized in Aeon (only in Aeon Italic)
+
 ## [1.4.1]
 
 - Make changed file foreground yellow
