@@ -2,6 +2,11 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.4.1]
+
+- Make changed file foreground yellow
+- Tweak styles
+
 ## [1.4.0]
 
 - Change editor accent from yellow to purple

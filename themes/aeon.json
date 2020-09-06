@@ -345,7 +345,7 @@
     "walkThrough.embeddedEditorBackground": "#171c28",
 
     // Git colors
-    "gitDecoration.modifiedResourceForeground": "#b8c5e2",
+    "gitDecoration.modifiedResourceForeground": "#ffdd99",
     "gitDecoration.deletedResourceForeground": "#ef6b73",
     "gitDecoration.untrackedResourceForeground": "#bae67e",
     "gitDecoration.ignoredResourceForeground": "#8695b777",
@@ -551,10 +551,7 @@
         "markup.inserted.git_gutter",
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
         "punctuation.definition.string",
-        "entity.name.section.markdown",
-        "meta.attribute-selector",
-        "entity.name.import.go",
-        "entity.name"
+        "meta.attribute-selector"
       ],
       "settings": {
         "foreground": "#ffdd99"
@@ -569,7 +566,8 @@
         "meta.use.php",
         "support.other.namespace.php",
         "markup.changed.git_gutter",
-        "support.type.sys-types"
+        "support.type.sys-types",
+        "new.expr.ts"
       ],
       "settings": {
         "foreground": "#cfbafa"
@@ -584,7 +582,9 @@
         "entity.other.inherited-class",
         "meta.property-name",
         "punctuation.definition.raw.markdown",
-        "variable.graphql"
+        "variable.graphql",
+        "entity.name.type.module.ts",
+        "meta.type.annotation.ts"
       ],
       "settings": {
         "foreground": "#ffdd99"
@@ -897,6 +897,13 @@
       "scope": ["text.html.markdown meta.dummy.line-break"],
       "settings": {
         "foreground": "#a2aabc"
+      }
+    },
+    {
+      "name": "Markdown - Entity",
+      "scope": ["entity.name.section.markdown"],
+      "settings": {
+        "foreground": "#cfbafa"
       }
     },
     {
