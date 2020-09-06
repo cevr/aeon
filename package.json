@@ -2,7 +2,7 @@
   "name": "aeon-theme-vscode",
   "displayName": "Aeon",
   "description": "Subtlety with bright highlights",
-  "version": "1.2.3",
+  "version": "1.3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/cevr/aeon"
@@ -31,6 +31,11 @@
         "label": "Aeon",
         "uiTheme": "vs-dark",
         "path": "./themes/aeon.json"
+      },
+      {
+        "label": "Aeon Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aeon-italic.json"
       }
     ]
   },
@@ -39,7 +44,7 @@
     "publish": "vsce publish"
   },
   "devDependencies": {
-    "np": "^6.2.0",
-    "vsce": "^1.75.0"
+    "np": "6.5.0",
+    "vsce": "1.79.5"
   }
 }
