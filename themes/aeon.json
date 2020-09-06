@@ -333,7 +333,7 @@
     "terminal.ansiYellow": "#ffdd99",
     "terminal.selectionBackground": "#8695b733",
     "terminalCursor.background": "#cfbafa",
-    "terminalCursor.foreground": "#su",
+    "terminalCursor.foreground": "#cfbafa",
 
     // Debug
     "debugToolBar.background": "#2f3b54",
@@ -582,8 +582,8 @@
         "meta.property-name",
         "punctuation.definition.raw.markdown",
         "variable.graphql",
-        "entity.name.type.module.ts",
-        "meta.type.annotation.ts"
+        "meta.type.annotation",
+        "entity.name.type"
       ],
       "settings": {
         "foreground": "#ffdd99"
