@@ -198,7 +198,7 @@
 
     // Editor Gutter
     "editorGutter.background": "#1d2433",
-    "editorGutter.modifiedBackground": "#cfbafa",
+    "editorGutter.modifiedBackground": "#ffdd99",
     "editorGutter.addedBackground": "#bae67e",
     "editorGutter.deletedBackground": "#ef6b73",
 
