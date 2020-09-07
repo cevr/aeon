@@ -1051,7 +1051,7 @@
     },
     {
       "name": "Ensure non-italicized",
-      "scope": ["keyword.operator.type", "keyword.operator.assignment"],
+      "scope": ["keyword.operator", "punctuation.accessor"],
       "settings": {
         "fontStyle": ""
       }

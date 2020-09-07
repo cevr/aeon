@@ -2,6 +2,10 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.4.4]
+
+- ensure operators are not italicized
+
 ## [1.4.3]
 
 - tweak type annotation colors
