@@ -2,6 +2,10 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.5.0]
+
+- Tweak green color
+
 ## [1.4.5]
 
 - Modified gutter changed back to yellow
