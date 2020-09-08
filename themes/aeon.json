@@ -559,7 +559,6 @@
     {
       "name": "Class, Support",
       "scope": [
-        "support.type",
         "support.class",
         "support.orther.namespace.use.php",
         "meta.use.php",
@@ -581,7 +580,6 @@
         "entity.other.inherited-class",
         "meta.property-name",
         "punctuation.definition.raw.markdown",
-        "variable.graphql",
         "meta.type.annotation",
         "entity.name.type"
       ],

@@ -2,6 +2,10 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.5.1]
+
+- Tweak graphql tokenization
+
 ## [1.5.0]
 
 - Tweak green color
