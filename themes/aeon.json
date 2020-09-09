@@ -655,20 +655,27 @@
       }
     },
     {
-      "name": "CSS Classes",
-      "scope": [
-        "entity.other.attribute-name.class",
-        "punctuation.definition.entity.css"
-      ],
+      "name": "CSS Puncutation",
+      "scope": "punctuation.definition.entity",
       "settings": {
         "foreground": "#b8c5e2"
       }
     },
     {
-      "name": "CSS ID's",
-      "scope": ["source.sass keyword.control"],
+      "name": "CSS Classes",
+      "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#b8c5e2"
+        "foreground": "#ffdd99"
+      }
+    },
+    {
+      "name": "CSS ID's",
+      "scope": [
+        "source.sass keyword.control",
+        "entity.other.attribute-name.id.css"
+      ],
+      "settings": {
+        "foreground": "#ef6b73"
       }
     },
     {

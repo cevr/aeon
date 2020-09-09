@@ -1,8 +1,8 @@
-import React, { useState, useCallback } from 'react';
-import calculate from '../logic/calculate';
-import './App.css';
-import ButtonPanel from './ButtonPanel';
-import Display from './Display';
+import React, { useState, useCallback } from "react";
+import calculate from "../logic/calculate";
+import "./App.css";
+import ButtonPanel from "./ButtonPanel";
+import Display from "./Display";
 
 function App() {
   const [state, setState] = useState({
@@ -12,16 +12,16 @@ function App() {
   });
 
   const handleClick = useCallback(
-    buttonName => {
-      setState(state => calculate(state, buttonName));
+    (buttonName) => {
+      setState((state) => calculate(state, buttonName));
     },
-    [setState],
+    [setState]
   );
 
   return (
     <div className="component-app">
       Tacos
-      <Display value={state.next || state.total || '0'} />
+      <Display value={state.next || state.total || "0"} />
       <ButtonPanel clickHandler={handleClick} />
     </div>
   );

@@ -2,6 +2,11 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.5.3]
+
+- update screenshots
+- tweak css token colors
+
 ## [1.5.2]
 
 - Tweak editorOverviewRuler colors
