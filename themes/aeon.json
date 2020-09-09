@@ -182,9 +182,9 @@
     "editorOverviewRuler.addedForeground": "#c4dea0",
     "editorOverviewRuler.deletedForeground": "#ef6b73",
     "editorOverviewRuler.errorForeground": "#ef6b73",
-    "editorOverviewRuler.warningForeground": "#cfbafa",
+    "editorOverviewRuler.warningForeground": "#ffdd99",
     "editorOverviewRuler.infoForeground": "#b8c5e2",
-    "editorOverviewRuler.bracketMatchForeground": "#cfbafa",
+    "editorOverviewRuler.bracketMatchForeground": "#0000",
 
     // Errors and warnings
     "editorError.foreground": "#ef6b73",
