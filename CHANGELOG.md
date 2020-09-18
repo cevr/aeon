@@ -2,6 +2,9 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.6.0]
+- remove active tab border
+
 ## [1.5.3]
 
 - update screenshots
