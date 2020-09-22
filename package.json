@@ -14,7 +14,7 @@
     "color": "#1d2433",
     "theme": "dark"
   },
-  "publisher": "cev",
+  "publisher": "cvr",
   "keywords": [
     "Theme",
     "Dark Theme",
@@ -45,6 +45,7 @@
   },
   "devDependencies": {
     "np": "6.5.0",
+    "ovsx": "^0.1.0-next.bcce4bc",
     "vsce": "1.79.5"
   }
 }
