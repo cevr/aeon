@@ -41,7 +41,7 @@
   },
   "icon": "icon.png",
   "scripts": {
-    "publish": "vsce publish"
+    "publish": "vsce publish && ovsx publish && git push"
   },
   "devDependencies": {
     "np": "6.5.0",
