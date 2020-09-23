@@ -524,7 +524,7 @@
       "name": "Other Variable, String Link",
       "scope": ["support.other.variable", "string.other.link"],
       "settings": {
-        "foreground": "#ef6b73"
+        "foreground": "#A2AABC"
       }
     },
     {
@@ -738,7 +738,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ef6b73"
+        "foreground": "#A2AABC"
       }
     },
     {

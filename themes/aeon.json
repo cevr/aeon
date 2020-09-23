@@ -524,7 +524,7 @@
       "name": "Other Variable, String Link",
       "scope": ["support.other.variable", "string.other.link"],
       "settings": {
-        "foreground": "#ef6b73"
+        "foreground": "#A2AABC"
       }
     },
     {
@@ -615,7 +615,6 @@
       "name": "Language methods",
       "scope": ["variable.language"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#b8c5e2"
       }
     },
@@ -623,7 +622,6 @@
       "name": "entity.name.method.js",
       "scope": ["entity.name.method.js"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#b8c5e2"
       }
     },
@@ -737,8 +735,7 @@
         "source.js constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#ef6b73"
+        "foreground": "#A2AABC"
       }
     },
     {
@@ -850,7 +847,6 @@
       "name": "Markup - Strike",
       "scope": ["markup.strike"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#ffdd99"
       }
     },
@@ -858,7 +854,6 @@
       "name": "Markup - Quote",
       "scope": ["markup.quote"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#b8c5e2"
       }
     },
@@ -927,7 +922,6 @@
       "name": "Markdown - Blockquote",
       "scope": ["markup.quote", "punctuation.definition.blockquote.markdown"],
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#b8c5e2"
       }
     },
