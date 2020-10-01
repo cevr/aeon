@@ -2,6 +2,10 @@
 
 All notable changes to the "overnight" extension will be documented in this file.
 
+## [1.8.0]
+
+- change yellow highlight to more orange hue
+
 ## [1.6.0]
 - remove active tab border
 
