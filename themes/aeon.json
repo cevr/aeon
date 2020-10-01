@@ -182,23 +182,23 @@
     "editorOverviewRuler.addedForeground": "#c4dea0",
     "editorOverviewRuler.deletedForeground": "#ef6b73",
     "editorOverviewRuler.errorForeground": "#ef6b73",
-    "editorOverviewRuler.warningForeground": "#ffdd99",
+    "editorOverviewRuler.warningForeground": "#eabe9a",
     "editorOverviewRuler.infoForeground": "#b8c5e2",
     "editorOverviewRuler.bracketMatchForeground": "#0000",
 
     // Errors and warnings
     "editorError.foreground": "#ef6b73",
     // "editorError.border": "#ef6b73",
-    "editorWarning.foreground": "#ffdd99",
-    // "editorWarning.border": "#ffdd99",
+    "editorWarning.foreground": "#eabe9a",
+    // "editorWarning.border": "#eabe9a",
     "editorInfo.foreground": "#b8c5e2",
     // "editorInfo.border": "#b8c5e2",
-    "editorHint.foreground": "#ffdd99",
-    // "editorHint.border": "#ffdd99",
+    "editorHint.foreground": "#eabe9a",
+    // "editorHint.border": "#eabe9a",
 
     // Editor Gutter
     "editorGutter.background": "#1d2433",
-    "editorGutter.modifiedBackground": "#ffdd99",
+    "editorGutter.modifiedBackground": "#eabe9a",
     "editorGutter.addedBackground": "#c4dea0",
     "editorGutter.deletedBackground": "#ef6b73",
 
@@ -324,13 +324,13 @@
     "terminal.ansiBrightMagenta": "#cfbafa",
     "terminal.ansiBrightRed": "#ef6b73",
     "terminal.ansiBrightWhite": "#a2aabc",
-    "terminal.ansiBrightYellow": "#ffdd99",
+    "terminal.ansiBrightYellow": "#eabe9a",
     "terminal.ansiCyan": "#b8c5e2",
     "terminal.ansiGreen": "#c4dea0",
     "terminal.ansiMagenta": "#cfbafa",
     "terminal.ansiRed": "#ef6b73",
     "terminal.ansiWhite": "#a2aabc",
-    "terminal.ansiYellow": "#ffdd99",
+    "terminal.ansiYellow": "#eabe9a",
     "terminal.selectionBackground": "#8695b733",
     "terminalCursor.background": "#cfbafa",
     "terminalCursor.foreground": "#cfbafa",
@@ -345,7 +345,7 @@
     "walkThrough.embeddedEditorBackground": "#171c28",
 
     // Git colors
-    "gitDecoration.modifiedResourceForeground": "#ffdd99",
+    "gitDecoration.modifiedResourceForeground": "#eabe9a",
     "gitDecoration.deletedResourceForeground": "#ef6b73",
     "gitDecoration.untrackedResourceForeground": "#c4dea0",
     "gitDecoration.ignoredResourceForeground": "#8695b777",
@@ -553,7 +553,7 @@
         "meta.attribute-selector"
       ],
       "settings": {
-        "foreground": "#ffdd99"
+        "foreground": "#eabe9a"
       }
     },
     {
@@ -584,7 +584,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#ffdd99"
+        "foreground": "#eabe9a"
       }
     },
     {
@@ -663,7 +663,7 @@
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#ffdd99"
+        "foreground": "#eabe9a"
       }
     },
     {
@@ -847,7 +847,7 @@
       "name": "Markup - Strike",
       "scope": ["markup.strike"],
       "settings": {
-        "foreground": "#ffdd99"
+        "foreground": "#eabe9a"
       }
     },
     {
@@ -930,7 +930,7 @@
       "scope": ["string.other.link.title.markdown"],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#ffdd99"
+        "foreground": "#eabe9a"
       }
     },
     {
@@ -975,7 +975,7 @@
     {
       "scope": "token.warn-token",
       "settings": {
-        "foreground": "#ffdd99"
+        "foreground": "#eabe9a"
       }
     },
     {
