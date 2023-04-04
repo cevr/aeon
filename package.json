@@ -41,11 +41,9 @@
   },
   "icon": "icon.png",
   "scripts": {
-    "publish": "vsce publish && ovsx publish && git push"
+    "publish": "vsce publish && git push"
   },
   "devDependencies": {
-    "np": "7.7.0",
-    "ovsx": "^0.8.0",
     "@vscode/vsce": "^2.18.0"
   }
 }
