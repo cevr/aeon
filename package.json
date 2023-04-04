@@ -45,5 +45,6 @@
   },
   "devDependencies": {
     "@vscode/vsce": "^2.18.0"
-  }
+  },
+  "license": "MIT"
 }
