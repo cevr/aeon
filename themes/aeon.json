@@ -553,7 +553,7 @@
         "meta.attribute-selector"
       ],
       "settings": {
-        "foreground": "#eabe9a"
+        "foreground": "#d0edcf"
       }
     },
     {
@@ -584,7 +584,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#eabe9a"
+        "foreground": "#d0edcf"
       }
     },
     {
@@ -663,7 +663,7 @@
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#eabe9a"
+        "foreground": "#d0edcf"
       }
     },
     {
@@ -847,7 +847,7 @@
       "name": "Markup - Strike",
       "scope": ["markup.strike"],
       "settings": {
-        "foreground": "#eabe9a"
+        "foreground": "#d0edcf"
       }
     },
     {
@@ -930,7 +930,7 @@
       "scope": ["string.other.link.title.markdown"],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#eabe9a"
+        "foreground": "#d0edcf"
       }
     },
     {
@@ -975,7 +975,7 @@
     {
       "scope": "token.warn-token",
       "settings": {
-        "foreground": "#eabe9a"
+        "foreground": "#d0edcf"
       }
     },
     {
