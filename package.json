@@ -2,7 +2,7 @@
   "name": "aeon-theme-vscode",
   "displayName": "Aeon",
   "description": "Subtlety with bright highlights",
-  "version": "1.9.2",
+  "version": "1.10.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/cevr/aeon"
@@ -41,7 +41,7 @@
   },
   "icon": "icon.png",
   "scripts": {
-    "publish": "vsce publish && git push"
+    "pub": "vsce publish && git push"
   },
   "devDependencies": {
     "@vscode/vsce": "^2.18.0"
