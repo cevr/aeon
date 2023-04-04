@@ -44,8 +44,8 @@
     "publish": "vsce publish && ovsx publish && git push"
   },
   "devDependencies": {
-    "np": "6.5.0",
-    "ovsx": "^0.1.0-next.bcce4bc",
-    "vsce": "1.80.0"
+    "np": "7.7.0",
+    "ovsx": "^0.8.0",
+    "@vscode/vsce": "^2.18.0"
   }
 }
