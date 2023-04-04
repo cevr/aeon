@@ -138,7 +138,7 @@
     "editorCursor.foreground": "#cfbafa",
 
     // Editor selection colors
-    "editor.selectionBackground": "#1d2433",
+    "editor.selectionBackground": "#8695b755",
     "editor.selectionForeground": "#a2aabc",
     "editor.inactiveSelectionBackground": "#8695b755",
     "editor.selectionHighlightBackground": "#2f3b5499",
