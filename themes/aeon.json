@@ -421,14 +421,19 @@
         "keyword",
         "storage.type",
         "storage.modifier",
-        "constant.numeric",
-        "constant.language",
         "support.constant",
         "constant.character",
         "constant.escape"
       ],
       "settings": {
         "foreground": "#b8c5e2"
+      }
+    },
+    {
+      "name": "Constant Numbers",
+      "scope": ["constant.numeric", "constant.language"],
+      "settings": {
+        "foreground": "#f2d1c7"
       }
     },
     {
@@ -455,7 +460,7 @@
         "source.tsx"
       ],
       "settings": {
-        "foreground": "#a2aabc"
+        "foreground": "#b8c5e2"
       }
     },
     {
@@ -507,7 +512,8 @@
         "variable.function",
         "support.function",
         "keyword.other.special-method",
-        "meta.function-call"
+        "meta.function-call",
+        "entity.name.type.class"
       ],
       "settings": {
         "foreground": "#d197c3"

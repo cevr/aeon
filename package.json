@@ -2,7 +2,7 @@
   "name": "aeon-theme-vscode",
   "displayName": "Aeon",
   "description": "Subtlety with bright highlights",
-  "version": "1.13.1",
+  "version": "2.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/cevr/aeon"
@@ -31,11 +31,6 @@
         "label": "Aeon",
         "uiTheme": "vs-dark",
         "path": "./themes/aeon.json"
-      },
-      {
-        "label": "Aeon Italic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/aeon-italic.json"
       }
     ]
   },
