@@ -1,14 +1,11 @@
 # Aeon
 
-Subtlety with bright highlights
+Minimalism with subtle contrast. Aeon is a dark theme for Atom, with a focus on readability and a clean, uncluttered interface.
 
 ## Screenshots
 
-![React](https://raw.githubusercontent.com/cevr/aeon/master/screenshots/react.png)
-![React Italic](https://raw.githubusercontent.com/cevr/aeon/master/screenshots/react-italic.png)
+![React](./screenshots/react.png)
 
-![HTML](https://raw.githubusercontent.com/cevr/aeon/master/screenshots/html.png)
-![HTML Italic](https://raw.githubusercontent.com/cevr/aeon/master/screenshots/html-italic.png)
+![HTML](./screenshots/html.png)
 
-![CSS](https://raw.githubusercontent.com/cevr/aeon/master/screenshots/css.png)
-![CSS Italic](https://raw.githubusercontent.com/cevr/aeon/master/screenshots/css-italic.png)
+![CSS](./screenshots/css.png)
