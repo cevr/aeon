@@ -1,6 +1,6 @@
 # Aeon
 
-Minimalism with subtle contrast. Aeon is a dark theme for Atom, with a focus on readability and a clean, uncluttered interface.
+Minimalism with subtle contrast. Aeon is a dark theme with a focus on readability and a clean, uncluttered interface.
 
 ## Screenshots
 
