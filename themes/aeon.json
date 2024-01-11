@@ -559,7 +559,7 @@
         "meta.attribute-selector"
       ],
       "settings": {
-        "foreground": "#d0edcf"
+        "foreground": "#f2d1c7"
       }
     },
     {
@@ -590,7 +590,7 @@
         "entity.name.type"
       ],
       "settings": {
-        "foreground": "#f2d1c7"
+        "foreground": "#d197c3"
       }
     },
     {
