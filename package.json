@@ -39,7 +39,7 @@
     "pub": "vsce publish && git push"
   },
   "devDependencies": {
-    "@vscode/vsce": "^2.19.0"
+    "@vscode/vsce": "^2.22.0"
   },
   "license": "MIT"
 }
