@@ -137,12 +137,12 @@
     "editorLineNumber.activeForeground": "#908caa",
     "editorCursor.background": "#090909",
     "editorCursor.foreground": "#d197c3",
-    "editorBracketHighlight.foreground1": "#d197c3",
+    "editorBracketHighlight.foreground1": "#b8c5e2",
     "editorBracketHighlight.foreground2": "#a2aabc",
-    "editorBracketHighlight.foreground3": "#b8c5e2",
-    "editorBracketHighlight.foreground4": "#d197c3",
+    "editorBracketHighlight.foreground3": "#d197c3",
+    "editorBracketHighlight.foreground4": "#b8c5e2",
     "editorBracketHighlight.foreground5": "#a2aabc",
-    "editorBracketHighlight.foreground6": "#b8c5e2",
+    "editorBracketHighlight.foreground6": "#d197c3",
 
     // Editor selection colors
     "editor.selectionBackground": "#908caa55",
