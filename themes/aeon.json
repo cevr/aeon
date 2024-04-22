@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "Aeon",
   "type": "dark",
   "colors": {
@@ -136,6 +137,12 @@
     "editorLineNumber.activeForeground": "#908caa",
     "editorCursor.background": "#090909",
     "editorCursor.foreground": "#d197c3",
+    "editorBracketHighlight.foreground1": "#d197c3",
+    "editorBracketHighlight.foreground2": "#a2aabc",
+    "editorBracketHighlight.foreground3": "#b8c5e2",
+    "editorBracketHighlight.foreground4": "#d197c3",
+    "editorBracketHighlight.foreground5": "#a2aabc",
+    "editorBracketHighlight.foreground6": "#b8c5e2",
 
     // Editor selection colors
     "editor.selectionBackground": "#908caa55",
@@ -164,8 +171,19 @@
     "editor.rangeHighlightBackground": "#1f1d2e",
     "editor.rangeHighlightBorder": "#908caa55",
     "editorWhitespace.foreground": "#908caa77",
-    "editorIndentGuide.background": "#908caa33",
-    "editorIndentGuide.activeBackground": "#908caa55",
+    "editorIndentGuide.background1": "#d197c340",
+    "editorIndentGuide.background2": "#a2aabc40",
+    "editorIndentGuide.background3": "#b8c5e240",
+    "editorIndentGuide.background4": "#d197c340",
+    "editorIndentGuide.background5": "#a2aabc40",
+    "editorIndentGuide.background6": "#b8c5e240",
+    "editorIndentGuide.activeBackground1": "#d197c380",
+    "editorIndentGuide.activeBackground2": "#a2aabc80",
+    "editorIndentGuide.activeBackground3": "#b8c5e280",
+    "editorIndentGuide.activeBackground4": "#d197c380",
+    "editorIndentGuide.activeBackground5": "#a2aabc80",
+    "editorIndentGuide.activeBackground6": "#b8c5e280",
+
     "editorRuler.foreground": "#1f1d2e",
     "editorCodeLens.foreground": "#d7dce2",
     // "editorBracketMatch.background": "#908caa55",
